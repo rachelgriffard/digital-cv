@@ -107,23 +107,22 @@
 					</tr>
 				</table>
 			</div>
-			<div class="Publications">
-				<ul>
-					<li>
-						<h2>Project1</h2>
+			<div class="Publications & Active Projects">
+				<h1> Publications
+						<h2>micRoclean: Decontamination for low-biomass metagenomic data</h2>
 						<p>
-							This project is based on html
-							& used React
+							<ul>
+							<li><a href = "https://github.com/rachelgriffard/micRoclean">micRoclean repository</a></li>
+							<li>R package that contains two pipelines aimed at decontaminating low-biomass microbiome data</li>
+							<\ul>
 						</p>
-					</li>
-					<li>
-						<h2>Project2</h2>
+						<h2>optima: an open-source R package for the Tapestri platform for integrative single cell multiomics data analysis</h2>
 						<p>
-							This project is based on html
-							& used React
+							<ul>
+							<li><a href = "https://github.com/rachelgriffard/optima">optima repository</a></li>
+							<li>This project is published in Bioinformatics and can be found <a href = "https://academic.oup.com/bioinformatics/article/39/10/btad611/7291856">here</a></li>
+							</ul>
 						</p>
-					</li>
-				</ul>
 			</div>
       <div class="Hobbies">
 				<h2>Hobbies</h2>
