@@ -40,8 +40,11 @@
 				<h2>Skills</h2>
 				<ul>
 					<li>
-						<b>Programming Languages - </b>
+						<b>Programming - </b>
 							R, Python, C++
+						<ul>
+							<li>Markdown</li>
+						</ul>
 					</li>
 					<li>
 						<b>Bioinformatics - </b>
@@ -51,13 +54,6 @@
 					</li>
 				</ul>
 			</div>
-			<div class="Language">
-				<h2>Language</h2>
-				<ul>
-					<li>English</li>
-				</ul>
-			</div>
-		</div>
 		<div class="right">
 			<div class="name">
 			<div class="Experience">
