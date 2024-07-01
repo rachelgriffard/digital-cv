@@ -36,24 +36,6 @@
         To harness the power of computer science, statistics, and data science and contribute to the world of bioinformatics.
 				</p>
 			</div>
-			<div class="Skills">
-				<h2>Skills</h2>
-				<ul>
-					<li>
-						<b>Programming - </b>
-							R, Python, C++
-						<ul>
-							<li>Markdown</li>
-						</ul>
-					</li>
-					<li>
-						<b>Bioinformatics - </b>
-					</li>
-					<li>
-						<b>Statistics - </b>
-					</li>
-				</ul>
-			</div>
 		<div class="right">
 			<div class="name">
 			<div class="Experience">
@@ -103,28 +85,97 @@
 					</tr>
 				</table>
 			</div>
-			<div class="Publications & Active Projects">
-				<h1> Publications
+			<div class="Projects and Publications">
+				<h1> Publications & Projects
 						<h2>micRoclean: Decontamination for low-biomass metagenomic data</h2>
-						<p>
 							<ul>
-							<li><a href = "https://github.com/rachelgriffard/micRoclean">micRoclean repository</a></li>
-							<li>R package that contains two pipelines aimed at decontaminating low-biomass microbiome data</li>
-							<\ul>
+								<li>Co-authors: Pei, D.</li>
+								<li><a href = "https://github.com/rachelgriffard/micRoclean">micRoclean repository</a></li>
+								<li>R package that contains two pipelines aimed at decontaminating low-biomass microbiome data</li>
+							</ul>
+						<h2> Plasma microbiota as novel biomarkers of early epithelial ovarian cancer detection</h2>
+							<ul>
+								<li>Co-authors: Mahoney, D., Pei, D., Chalise, P.</li>
+								<li>Develop pipeline to identify and remove contaminants from low-biomass blood plasma 16S rRNA sequencing microbiome data</li>
+							</ul>
+						<h2>Small RNA analysis of exosomal microRNAs from human and mouse models of allergic asthma</h2>
+						<p>	
+							<ul>
+								<li>Co-authors: Sundar, I., Pei, D., Prasad, C.
+								<li>Develop pipeline to preprocess and analyze small RNA data from human and mice samples</li>
+								<li>Run correlation analysis of covariates with significantly differentially expressed miRNA from human samples</li>
+							</ul>
 						</p>
 						<h2>optima: an open-source R package for the Tapestri platform for integrative single cell multiomics data analysis</h2>
 						<p>
 							<ul>
-							<li><a href = "https://github.com/rachelgriffard/optima">optima repository</a></li>
-							<li>This project is published in Bioinformatics and can be found <a href = "https://academic.oup.com/bioinformatics/article/39/10/btad611/7291856">here</a></li>
+								<li>Co-authors: Pei, D., Kumar Yellapu, N., Nissen, E., Koestler, D.</li>	
+								<li><a href = "https://github.com/rachelgriffard/optima">optima repository</a></li>
+								<li>This project is published in Bioinformatics and can be found <a href = "https://academic.oup.com/bioinformatics/article/39/10/btad611/7291856">here</a></li>
 							</ul>
 						</p>
+      						<h2>Identifying differentially methylated regions in RRBS data using tiling window analysis</h2>
+	    					<p>
+							<ul>
+								<li>Co-authors: Abbot, E., Rajendra, G., Woolbright, B., Krise, J., Thompson, J., Barchowsky, A., Hageman, M, Pei, D., Sardiu, M., Dennis, K., Taylor III, J. A.</li>
+								<li>Identified differentially methylated regions in reduced representation bisulfite sequencing data and annotated genome using Bioconductor packages methylKit and genomation</li>
+							</ul>
+						</p>				
+			</div>
+<div class = "Training">
+	<h1>Professional Training</h1>
+	<h2>Single Cell RNA-seq Workshop</h2>
+	National Center for Genome Resources/New Mexico-INBRE, November 2023
+	<ul>
+		<li>Apply and expand UNIX and R knowledge for processing and analyzing single-cell RNA-seq data</li>
+		<li>Work hands-on with tools such as SingleCellExperiment and Seraut within UNIX environment</li>
+		<li>Collaborate with other attendees and improve communication of insights gained from single-cell RNA-seq data</li>
+	</ul>
+ 	<h2>Epic Cosmos Data Model Certification</h2>
+  	Epic, June 2023
+   	<ul>
+		<li>Certified for <a href = "https://cosmos.epic.com/">Cosmos deidentified dataset</a></li>
+		<li>Improved knowledge on how to query and manage massie datasets</li>
+	</ul>
+ 	<h2>IBM Data Science Professional Certificate</h2>
+	Coursera, 2022
+	<h2>SQL for Data Science with R</h2>
+	edX, 2021 to 2022
+</div>
+<div class="Skills">
+				<h2>Skills</h2>
+				<ul>
+					<li>
+						<b>Programming - </b>
+						<ul>
+							<li> R</li>
+							<li> Unix shell-scripting</li>
+							<li>SQL</li>
+							<li> Python</li>
+							<li>Markdown</li>
+						</ul>
+					</li>
+					<li>
+						<b>Bioinformatics - </b>
+					</li>
+						<ul>
+							<li>Create and maintain pipelines for preprocessing, analysis, and visualization of ‘omic data</li>
+							<li>Single-cell and bulk RNA sequencing analysis</li>
+							<li>Differential expression analysis</li>
+							<li>Leverage data from publicly available databases for analysis such as GEO and NCBI</li>
+						</ul>
+					<li>
+						<b>Statistics - </b>
+					</li>
+				</ul>
 			</div>
       <div class="Hobbies">
 				<h2>Hobbies</h2>
 				<ul>
-					<li>Playing cricket</li>
-					<li>Swimming</li>
+					<li>Lifting</li>
+					<li>Rock climbing</li>
+					<li>Yoga</li>
+					<li>Calligraphy</li>
 				</ul>
 			</div>
 		</div>
