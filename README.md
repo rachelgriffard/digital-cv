@@ -26,8 +26,8 @@
 					<a href="rachelgriffard@gmail.com">rachelgriffard@gmail.com</a>
 				</p>
         <p>
-          <a href="www.linkedin.com/in/rachelgriffard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rachelgriffard" height="30" width="30" hspace = 10 />
-                      <a href="[https://linkedin.com/in/www.linkedin.com/in/rachelgriffard](https://orcid.org/0000-0002-3330-695X)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="orcID" height="30" width="30" />
+          <a href="www.linkedin.com/in/rachelgriffard"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" hspace = 10 />
+                      <a href="https://orcid.org/0000-0002-3330-695X" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="orcID" height="30" width="30" />
         </p>
 			</div>
       <div class="Summary">
