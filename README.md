@@ -135,7 +135,7 @@
   	Epic, June 2023
    	<ul>
 		<li>Certified for <a href = "https://cosmos.epic.com/">Cosmos deidentified dataset</a></li>
-		<li>Improved knowledge on how to query and manage massie datasets</li>
+		<li>Improved knowledge on how to query and manage massive datasets</li>
 	</ul>
  	<h2>IBM Data Science Professional Certificate</h2>
 	Coursera, 2022
