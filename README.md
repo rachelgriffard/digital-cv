@@ -87,6 +87,11 @@
 			</div>
 			<div class="Projects and Publications">
 				<h1> Publications & Projects
+						<h2>Fixed single-cell RNA sequencing analysis of mouse models of asthma</h2>
+							<ul>
+								<li>Co-authors: Sundar, I.</li>
+								<li>Preprocess and analyze fixed single-cell RNA sequencing analysis with cell ranger and Seurat</li>
+							</ul>
 						<h2>micRoclean: Decontamination for low-biomass metagenomic data</h2>
 							<ul>
 								<li>Co-authors: Pei, D.</li>
