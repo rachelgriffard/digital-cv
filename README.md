@@ -87,9 +87,14 @@
 			</div>
 			<div class="Projects and Publications">
 				<h1> Publications & Projects
+						<h2>Bulk RNA-sequencing of human and mouse </h2>
+							<ul>
+								<li>Co-authors: Dasgupta, D., Pyaram, K.</li>
+								<li>Preprocess and analyze bulk RNA-sequencing data</li>
+							</ul>
 						<h2>Fixed single-cell RNA sequencing analysis of mouse models of asthma</h2>
 							<ul>
-								<li>Co-authors: Sundar, I.</li>
+								<li>Co-authors: Sundar, I., Prasad, C.</li>
 								<li>Preprocess and analyze fixed single-cell RNA sequencing analysis with cell ranger and Seurat</li>
 							</ul>
 						<h2>micRoclean: Decontamination for low-biomass metagenomic data</h2>
