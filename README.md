@@ -18,7 +18,7 @@
 					alt="avatar"
 					style="width:250px;
 							height:250px;">
-        <h1> Rachel Griffard
+        <h1> Rachel Griffard-Smith
 			</div>
 			<div class="Contact">
 				<h2>Contact</h2>
