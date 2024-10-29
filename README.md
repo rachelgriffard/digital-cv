@@ -87,10 +87,11 @@
 			</div>
 			<div class="Projects and Publications">
 				<h1> Publications & Projects
-						<h2>Bulk RNA-sequencing of human and mouse </h2>
+						<h2>Therapeutic Potential of NRF2 activating drug RTA-408 in suppressing T-cell effector responses and inflammatory bowel disease</h2>
 							<ul>
-								<li>Co-authors: Dasgupta, D., Pyaram, K.</li>
+								<li>Co-authors: Dasgupta, D., Tripathi, A., Yellapu, N.K., Pyaram, K.</li>
 								<li>Preprocess and analyze bulk RNA-sequencing data</li>
+								<li>Submitted to Cell Reports</li>
 							</ul>
 						<h2>Fixed single-cell RNA sequencing analysis of mouse models of asthma</h2>
 							<ul>
@@ -108,10 +109,10 @@
 								<li>Co-authors: Mahoney, D., Pei, D., Chalise, P.</li>
 								<li>Develop pipeline to identify and remove contaminants from low-biomass blood plasma 16S rRNA sequencing microbiome data</li>
 							</ul>
-						<h2>Small RNA analysis of exosomal microRNAs from human and mouse models of allergic asthma</h2>
+						<h2>Extracellular vesicle miRNAs as biomarkers of asthma severity</h2>
 						<p>	
 							<ul>
-								<li>Co-authors: Sundar, I., Pei, D., Prasad, C.
+								<li>Co-authors: Prasad, C., Pei, D., Dhillon, N., Castro, M., Sundar, I.</li>
 								<li>Develop pipeline to preprocess and analyze small RNA data from human and mice samples</li>
 								<li>Run correlation analysis of covariates with significantly differentially expressed miRNA from human samples</li>
 							</ul>
