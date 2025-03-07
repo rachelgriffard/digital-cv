@@ -78,7 +78,7 @@
 						<td>4.0</td>
 					</tr>
 					<tr>
-						<td>Uniiversity of Kansas</td>
+						<td>University of Kansas</td>
             <td>B.S. Behavioral Neuroscience</td>
 						<td>2017 - 2020</td>
 						<td>3.9</td>
