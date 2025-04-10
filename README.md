@@ -98,11 +98,12 @@
 								<li>Co-authors: Sundar, I., Prasad, C.</li>
 								<li>Preprocess and analyze fixed single-cell RNA sequencing analysis with cell ranger and Seurat</li>
 							</ul>
-						<h2>micRoclean: Decontamination for low-biomass metagenomic data</h2>
+						<h2>micRoclean: an R package for decontaminating low biomass 16S-rRNA microbiome data</h2>
 							<ul>
 								<li>Co-authors: Pei, D.</li>
 								<li><a href = "https://github.com/rachelgriffard/micRoclean">micRoclean repository</a></li>
 								<li>R package that contains two pipelines aimed at decontaminating low-biomass microbiome data</li>
+								<li>This project is published in Frontiers in Bioinformatics</li>
 							</ul>
 						<h2> Plasma microbiota as novel biomarkers of early epithelial ovarian cancer detection</h2>
 							<ul>
