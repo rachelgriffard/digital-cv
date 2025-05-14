@@ -100,10 +100,10 @@
 							</ul>
 						<h2>micRoclean: an R package for decontaminating low biomass 16S-rRNA microbiome data</h2>
 							<ul>
-								<li>Co-authors: Pei, D.</li>
+								<li>Co-authors: Pei, D., Schueddig, E., Mahoney, D., Chalise, P., Koestler, D.</li>
 								<li><a href = "https://github.com/rachelgriffard/micRoclean">micRoclean repository</a></li>
 								<li>R package that contains two pipelines aimed at decontaminating low-biomass microbiome data</li>
-								<li>This project is published in Frontiers in Bioinformatics</li>
+								<li>This project is published in Frontiers in Bioinformatics and can be found <a href = "https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2025.1556361/full">here</li>
 							</ul>
 						<h2> Plasma microbiota as novel biomarkers of early epithelial ovarian cancer detection</h2>
 							<ul>
